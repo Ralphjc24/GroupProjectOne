@@ -6,8 +6,8 @@
             color: purple;
         }
     </style>
-    Welcome <?php echo $_POST["uname"]; ?><br>
-    Welcome, Lets start your excercise experience:<br>
+    Welcome <?php echo $_POST["uname"]; ?><be>
+    <h1> Let's start your exercise experience:<h1> <br>
     
     <h2>Please Fill out the following Information<h2>
     
